@@ -7,7 +7,9 @@ There is a lot of competition among the brands in the smartwatch industry. Smart
 
 
 1.Data sources:CSV file
+
 2.NOtebook:google colab
+
 3.Data Visualization:plotly,seaborn
 
 
