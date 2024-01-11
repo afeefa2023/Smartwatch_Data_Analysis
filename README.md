@@ -7,9 +7,9 @@
 There is a lot of competition among the brands in the smartwatch industry. Smartwatches are preferred by people who like to take care of their fitness. Here I gave a CSV file containing the fitness details of people.
 
 
-1.DATA SOURCE:CSV file
-2.NOTEBOOK:google colab
-3.DATA VISULAISATION:plotly,seaborn
+1.Data sources:CSV file
+2.NOtebook:google colab
+3.Data Visualization:plotly,seaborn
 
 
 **Data Cleaning:**
